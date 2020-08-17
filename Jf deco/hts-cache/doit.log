@@ -1,0 +1,8 @@
+-qiC1%Pns2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2010], %s -->" -%l "en, *" http://www.decorationjf.ch http://www.decorationjf.ch/#!/page_SPLASH http://www.decorationjf.ch/#!/page_HOME http://www.decorationjf.ch/#!/page_SERVICES http://www.decorationjf.ch/#!/page_CONTACTS http://www.decorationjf.ch/#!/page_GALLERIE -O1 "D:\Projets\Jf deco\Jf deco" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*decorationjf* +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp
+File generated automatically on Sat, 28 Sep 2019 17:42:21, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
